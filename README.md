@@ -8,7 +8,7 @@ A modern and responsive fashion e-commerce landing page built using **HTML5** an
 
 ## 🚀 Live Demo
 
- https://ehsanellahi1385-commits.github.io/fashion-hub/
+[Live Demo](https://ehsan-elahi-dev.github.io/fashion-hub/)
 
 ---
 
